@@ -118,29 +118,22 @@ DEMO VIDEO TO MAKE A GITHUB PAGES SITE: https://vimeo.com/showcase/10964162
 
 Password: idea2024
 
-<!--
 ***
 
 ## Unit 2: Digital Literacy and Online Content Creation
 
 ### Week 6
-#### Week of February 13, 2022: Digital Un-realities
-
-One-on-one meetings this week before midterm grades are submitted
+#### Week of February 13, 2024: Digital Un-realities
 
 DUE **Thursday, February 15**:
 * DOWNLOAD and review [Week 6 guide](https://docs.google.com/presentation/d/1HCValVmwd-A-Os9qooaZWzw6UR-sHtBnj5UlPVY42z8/edit?usp=sharing)
 * Read [Janet Murray, Hamlet on the Holodeck: Chapter 9](/week_06_week_of_02-15-2021/readings/Janet-Murray-Hamlet-On-the-Holodeck-Chapter-9-WEEK-06.pdf)
-* Read W3C's [HTML Media Tutorial from 'HTML Media' to 'HTML YouTube', ](https://www.w3schools.com/html/default.asp)
+* Read W3C's [HTML Media Tutorial from 'HTML Media' to 'HTML YouTube'](https://www.w3schools.com/html/default.asp)
 * Watch [Why 'The Mandalorian' Uses Virtual Sets Over Green Screen'](https://www.youtube.com/watch?v=Ufp8weYYDE8)
-* In Atom, create a new markdown file named 'week-06-murray.md' and save it in your 'idea-120-responses' repository project folder. In this file discuss if you believe Murray's predictions about internet television and inhabiting virtual environments were successful. How does Murray's prediction compare to the hyper-realistic virtual environments the actors of 'The Mandalorian' inhabit while acting? Name and discuss the different layers of 'reality' both the actors and the viewers experience in the production.
-* Push this file to your repository
+* In your responses repository, create a new markdown file named 'week-06-murray.md.' In this file discuss if you believe Murray's predictions about internet television and inhabiting virtual environments were successful. How does Murray's prediction compare to the hyper-realistic virtual environments the actors of 'The Mandalorian' inhabit while acting? Name and discuss the different layers of 'reality' both the actors and the viewers experience in the production.
 
-Optional In-Class Lab **Tuesday, February 14, 9:30-10:45AM**
-* Accessing the virtual computer lab
-** [Instructions can be found on this PDF](week_06_week_of_02-15-2021/windows-virtual-desktop-access.pdf)
-* Recording will be posted afterward
 
+<!--
 ***
 
 ### Week 7
