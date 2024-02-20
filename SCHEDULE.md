@@ -135,16 +135,14 @@ DUE **Thursday, February 15**:
 ***
 
 ### Week 7
-#### Week of February 20, 2022: A Series of Tubes: What's wrong with the internet?
+#### Week of February 20, 2022: Personal Digital Narratives
 
-* DOWNLOAD and review [Week 7 guide](https://docs.google.com/presentation/d/1HCValVmwd-A-Os9qooaZWzw6UR-sHtBnj5UlPVY42z8/edit?usp=sharing)
-* Review [Project 2: Green Screen](/week_07_week_of_02-22-2021/project-2_green-screen.md) expectations.
+* DOWNLOAD and review [Week 7 guide](https://docs.google.com/presentation/d/16_2nJQFGgX6_97hNVljRAzY95KAQmXA_RkgTcWW9vHQ/edit?usp=sharing)
+* Review [Project 2: Green Screen](/week_07/project-2-green-screen.md) expectations.
 * Create a new markdown file in your repository called 'project-02-proposal.md'. Write a brief proposal (a few sentences) on what you plan to do for [Project 2: Green Screen](/week_07/project-2-green-screen.md) and push it to your repository
 * Read [James Bridle, Something is Wrong On the Internet](https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2)
 * **Optional** *Read [‘You Can Still Make Websites Nowadays’: A Talk with the Pioneering Internet Art Collective JODI](https://www.artnews.com/art-news/artists/can-still-make-websites-nowadays-talk-pioneering-internet-art-collective-jodi-10653/)*
 * **Optional** *Read [Perrigo, The World Wide Web Turns 30 Today. Here's How Its Inventor Thinks We Can Fix It](https://time.com/5549635/tim-berners-lee-interview-web/)*
-* Create a new markdown document in your 'idea-120-responses' folder called 'week-07-response.md' and discuss in about 2 paragraphs if you agree with the problems and solutions laid out by Bridle. Bridle has a specific vision for what the internet 'should be'. Do you agree with this vision?
-* Push the file to your repository
 
 ***
 <!--
