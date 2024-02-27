@@ -145,7 +145,22 @@ DUE **Thursday, February 15**:
 * **Optional** *Read [Perrigo, The World Wide Web Turns 30 Today. Here's How Its Inventor Thinks We Can Fix It](https://time.com/5549635/tim-berners-lee-interview-web/)*
 
 ***
+
+### Week 8
+#### Week of February 27, 2022: Midterm Check-in
+
+Sign up for midterm Zoom meeting:  
+
+https://docs.google.com/spreadsheets/d/1FnNA-wC46UAfUS3viR3YBUulMrUqRRcWVAeM9qNYBu4/edit#gid=0
+
+MIDTERM CHECKLIST: You should have 3 repositories in your GitHub account:
+1. 120 Responses - you will have .md files for each week (excluding week 1) 
+2. Project 1 - this is your GitHub poetry project, so it will have index.html and style.css files, as well as images 
+3. Project 2 - this will have your Green Screen project proposal.
+
+Continue to work on [Project 2: Green Screen](/week_07/project-2-green-screen.md)!
 <!--
+
 ### Week 8
 #### Week of February 27, 2022: What is a model? Design and Algorithms
 
