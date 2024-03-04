@@ -160,6 +160,8 @@ MIDTERM CHECKLIST: You should have 3 repositories in your GitHub account:
 
 Continue to work on [Project 2: Green Screen](/week_07/project-2-green-screen.md)!
 
+***
+
 ### Week 9
 #### Week of March 5, 2024: What is a model? Design and Algorithms
 
