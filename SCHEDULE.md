@@ -165,9 +165,9 @@ Continue to work on [Project 2: Green Screen](/week_07/project-2-green-screen.md
 ### Week 9
 #### Week of March 5, 2024: What is a model? Design and Algorithms
 
-DUE **Thursday, March 2**:
+* DOWNLOAD and review [Week 9 guide](https://docs.google.com/presentation/d/1XPAqjFM87uj8W-JjjX47dbCZl4LaseVO2nSQzlhQjwc/edit?usp=sharing)
 * Watch [Mona Chalabi, 3 Ways to Spot a Bad Statistic](https://www.ted.com/talks/mona_chalabi_3_ways_to_spot_a_bad_statistic)
-* Read [Cathy O'Neil, Weapons of Math Destruction: Introduction, Chapter 1 and 5](/week_0/O-Neil.pdf)
+* Read [Cathy O'Neil, Weapons of Math Destruction: Introduction, Chapter 1 and 5](week_09/O-Neil.pdf)
 * Create a new markdown document in your 'idea-120-responses' repository called 'week-09-response.md' and discuss in about 2 paragraphs what methods outlined by O'Neil and Chalabi you believe you're subject to when using tools and consuming media on the internet. Would the internet be more useful and egalitarian without these methods (targeted ads, shaping interactions to content with specific design), or is it useful to direct users because your message could otherwise be lost among the sea of online content?
 * Push the file to your repository
 
