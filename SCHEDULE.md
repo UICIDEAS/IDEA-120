@@ -176,6 +176,8 @@ Continue to work on [Project 2: Green Screen](/week_07/project-2-green-screen.md
 
 * __Create a Google Drive folder for your PROJECT 2, and send me a link (tfunk4@uic.edu). Include the video and 3 screen captures.__
 
+* __Fill in your PROJECT 1 website data into this spreadsheet: https://docs.google.com/spreadsheets/d/1nEnACjkWVZykDsvpUVj23FQpxpVUvmYH6YOdsvBL0D8/edit?usp=sharing__
+
 ***
 <!--
 ## Unit 3: Non-linear Narratives in Digital Media
