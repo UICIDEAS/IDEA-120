@@ -172,7 +172,9 @@ Continue to work on [Project 2: Green Screen](/week_07/project-2-green-screen.md
 * Create a new markdown document in your 'idea-120-responses' repository called 'week-09-response.md' and discuss in about 2 paragraphs what methods outlined by O'Neil and Chalabi you believe you're subject to when using tools and consuming media on the internet. Would the internet be more useful and egalitarian without these methods (targeted ads, shaping interactions to content with specific design), or is it useful to direct users because your message could otherwise be lost among the sea of online content?
 * Push the file to your repository
 
-* If you haven't already had a midterm meeting, sign up on the new sheet: https://docs.google.com/spreadsheets/d/1FnNA-wC46UAfUS3viR3YBUulMrUqRRcWVAeM9qNYBu4/edit?usp=sharing
+* __If you haven't already had a midterm meeting, sign up on the new sheet: https://docs.google.com/spreadsheets/d/1FnNA-wC46UAfUS3viR3YBUulMrUqRRcWVAeM9qNYBu4/edit?usp=sharing__
+
+* __Create a Google Drive folder for your PROJECT 2, and send me a link (tfunk4@uic.edu). Include the video and 3 screen captures.__
 
 ***
 <!--
