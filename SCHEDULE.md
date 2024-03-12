@@ -179,42 +179,26 @@ Continue to work on [Project 2: Green Screen](/week_07/project-2-green-screen.md
 * __Fill in your PROJECT 1 website data into this spreadsheet: https://docs.google.com/spreadsheets/d/1nEnACjkWVZykDsvpUVj23FQpxpVUvmYH6YOdsvBL0D8/edit?usp=sharing__
 
 ***
-<!--
+
 ## Unit 3: Non-linear Narratives in Digital Media
 
-### Week 9
-#### Week of March 6, 2022: Personal Digital Narrative
-
-DUE **Thursday, March 9**:
-* Read [Lisa Nakamura, Digitizing Race: Introduction](/week_09_week_of_03-08-2021/readings/Lisa-Nakamura-Digitizing-Race-Intro-WEEK-09.pdf)
-* Create a new markdown document in your 'idea-120-responses' folder called 'week-09-nakamura.md' and discuss in about 2 paragraphs how you believe Nakamura's citation of Lev Manovich saying "interactive media ask us to identify with someone else’s mental structure" is to be understood. Discuss one example in depth of how aspects of tools you may use (such as Gmail, Instagram, TikTok, etc) are reflections of the designer's or developer's 'mental structure' and their own identity.
-* Push the file to your repository
-
-DUE **Thursday, March 10**:
-* Green Screen Project DUE
-
-***
-
 ### Week 10
-#### Week of March 13, 2022: Non-linear Narratives in Digital Media
+#### Week of March 12, 2024: Non-linear Narratives in Digital Media
 
-DUE **Thursday, March 16**:
-* [Read the description for Project 3: Non-linear Narrative](/week_10_week_of_03-15-2021/project-3_non-linear-narrative.md)
-* Read [Merritt Kopas, Videogames for Humans, 'Introduction'](/week_10_week_of_03-15-2021/readings/Merritt-Kopas-Videogames-for-Humans-Intro-WEEK-10.pdf)
+* [Read the description for Project 3: Non-linear Narrative](project-3_non-linear-narrative.md)
+* Read [Merritt Kopas, Videogames for Humans, 'Introduction'](/week_10/Merritt-Kopas-Videogames-for-Humans-Intro-WEEK-10.pdf)
 * Play [some of the twine games listed here](/week_10_week_of_03-15-2021/twineGames.md)
 * Create a new markdown document in your 'idea-120-responses' folder called 'project-03-proposal.md' and write a 1-2 paragraph proposal explaining the concept for your non-linear narrative
 * Push the file to your repository
 
-Optional In-Class Lab **Tuesday, March 14, 9:30-10:45AM**
-* Zoom link details in blackboard
-* Introduction to Twine Workshop - [a tool for making non-linear games](https://twinery.org/)
-* Tutorial will be recorded and shared with the class
+* Twine: https://twinery.org/
+* [One Big Ole Dump of Twine Tutorials and Help](week_10/twine_tutorial_dump.md)
 
 ***
 
 ### Week 11
 #### Week of March 20, 2022: SPRING BREAK!
-
+<!--
 ### Week 12
 #### Week of March 27, 2022: Game Design for Artists, Part 1
 
