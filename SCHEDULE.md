@@ -185,7 +185,7 @@ Continue to work on [Project 2: Green Screen](/week_07/project-2-green-screen.md
 ### Week 10
 #### Week of March 12, 2024: Non-linear Narratives in Digital Media
 
-* [Read the description for Project 3: Non-linear Narrative](project-3_non-linear-narrative.md)
+* [Read the description for Project 3: Non-linear Narrative](week_10/project-3_non-linear-narrative.md)
 * Read [Merritt Kopas, Videogames for Humans, 'Introduction'](/week_10/Merritt-Kopas-Videogames-for-Humans-Intro-WEEK-10.pdf)
 * Play [some of the twine games listed here](/week_10_week_of_03-15-2021/twineGames.md)
 * Create a new markdown document in your 'idea-120-responses' folder called 'project-03-proposal.md' and write a 1-2 paragraph proposal explaining the concept for your non-linear narrative
