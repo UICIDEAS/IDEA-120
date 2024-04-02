@@ -205,9 +205,9 @@ Continue to work on [Project 2: Green Screen](/week_07/project-2-green-screen.md
 ### Week 13
 #### Week of April 2, 2024: Game Design for Artists, Part 1
 
-* Read [Anna Anthropy, Rise of Videogame Zinesters: Chapter 1 and 2](/week_12_week_of_03-29-2021/readings/Anna-Anthropy-Rise-of-the-Videogame-Zinesters-Ch-1-2-WEEK-12.pdf)
+* Read [Anna Anthropy, Rise of Videogame Zinesters: Chapter 1 and 2](week_12/readings/Anna-Anthropy-Rise-of-the-Videogame-Zinesters-Ch-1-2-WEEK-12.pdf)
 * Create a new markdown document in your 'idea-120-responses' folder called 'week-12-anthropy.md' and discuss in about 2 paragraphs how accessibility in gaming and coding can help improve video games. Think about what we can gain from a larger number of voices participating in creating games and what other kinds of media (e.g. theater, physical games) could also benefit from using 'game' creation tools.
-* [Create a GitHub website for your Twine game.]((week_10/project-3_non-linear-narrative.md)
+* [Create a GitHub website for your Twine game.](week_10/project-3_non-linear-narrative.md)
 
 ***
 
@@ -219,7 +219,7 @@ Continue to work on [Project 2: Green Screen](/week_07/project-2-green-screen.md
 <sup>*Possible playthrough of [Olia Lialina, My Boyfriend Came Back from the War](http://www.teleportacia.org/war/wara.htm)*</sup>
 
 DUE **Thursday, April 6**:
-* Read [Anna Anthropy, Rise of Videogame Zinesters: Chapter 3 and 4](/week_13_week_of_04-05-2021/readings/Anna-Anthropy-Rise-of-the-Videogame-Zinesters-Ch-3-4-WEEK-12.pdf)
+* Read [Anna Anthropy, Rise of Videogame Zinesters: Chapter 3 and 4](/week_13/Anna-Anthropy-Rise-of-the-Videogame-Zinesters-Ch-3-4-WEEK-12.pdf)
 * Create a new markdown document in your 'idea-120-responses' folder called 'week-13-anthopy.md' and respond with around 3 questions these readings brought up for you. Pick one and discuss it in 3 paragraphs
 * Push the file to your repository
 * Read the description for [Project 4: Personal Portfolio](week_13/project-4_personal-portfolio.md)
