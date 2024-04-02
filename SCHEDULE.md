@@ -230,13 +230,6 @@ DUE **Thursday, April 6**:
 * Read the description for [Project 4: Personal Portfolio](week_13/project-4_personal-portfolio.md)
 * Create a new markdown document in your 'idea-120-responses' folder called 'project-04-proposal.md' and explain in about 1 paragraph what content you'll include in your portfolio and how it will be organized.
 * Draw (or layout in Illustrator) the basic layout that you will use for your Portfolio and [add this drawing to your repository](https://docs.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository) as a photo or exported from Illustrator
-* Push your proposal to your repository
-
-Twine Tutorial 1 Recording:
-https://uic.zoom.us/rec/share/tuY9gk9WzT5Czn2TZZTM-stO-cJ7B8UlLJ64JL_v7JQmgMwakHP3kUzZmzYffUU3.As_AN9VAKRpMqrRY?startTime=1647353795000 
-
-Twine Tutorial 2 Recording:
-https://uic.zoom.us/rec/share/oQH_ypu3YxS5OA5cqGZGJiInhh5I4DhsHPB7bgurKFnsD2KHK7WNAagdACln1NlT.0KLHikohC7hEBs9Z?startTime=1649168217000
 
 ***
 
