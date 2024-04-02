@@ -197,15 +197,17 @@ Continue to work on [Project 2: Green Screen](/week_07/project-2-green-screen.md
 ***
 
 ### Week 11
-#### Week of March 20, 2022: SPRING BREAK!
-<!--
-### Week 12
-#### Week of March 27, 2022: Game Design for Artists, Part 1
+#### Week of March 20, 2024: SPRING BREAK!
 
-DUE **Thursday, March 30**:
+### Week 12
+#### Week of March 27, 2024: Project Critiques and Discussion
+
+### Week 13
+#### Week of April 2, 2024: Game Design for Artists, Part 1
+
 * Read [Anna Anthropy, Rise of Videogame Zinesters: Chapter 1 and 2](/week_12_week_of_03-29-2021/readings/Anna-Anthropy-Rise-of-the-Videogame-Zinesters-Ch-1-2-WEEK-12.pdf)
-* Create a new markdown document in your 'idea-120-responses' folder called 'week-12-anthropy.md' and discuss in about 4 paragraphs how accessibility in gaming and coding can help improve video games. Think about what we can gain from a larger number of voices participating in creating games and what other kinds of media (e.g. theater, physical games) could also benefit from using 'game' creation tools
-* Push the file to your repository
+* Create a new markdown document in your 'idea-120-responses' folder called 'week-12-anthropy.md' and discuss in about 2 paragraphs how accessibility in gaming and coding can help improve video games. Think about what we can gain from a larger number of voices participating in creating games and what other kinds of media (e.g. theater, physical games) could also benefit from using 'game' creation tools.
+* [Create a GitHub website for your Twine game.]((week_10/project-3_non-linear-narrative.md)
 
 ***
 
@@ -230,7 +232,7 @@ https://uic.zoom.us/rec/share/tuY9gk9WzT5Czn2TZZTM-stO-cJ7B8UlLJ64JL_v7JQmgMwakH
 
 Twine Tutorial 2 Recording:
 https://uic.zoom.us/rec/share/oQH_ypu3YxS5OA5cqGZGJiInhh5I4DhsHPB7bgurKFnsD2KHK7WNAagdACln1NlT.0KLHikohC7hEBs9Z?startTime=1649168217000
-
+<!--
 ***
 
 ### Week 14
