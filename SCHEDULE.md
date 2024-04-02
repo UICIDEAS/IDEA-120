@@ -222,7 +222,7 @@ DUE **Thursday, April 6**:
 * Read [Anna Anthropy, Rise of Videogame Zinesters: Chapter 3 and 4](/week_13_week_of_04-05-2021/readings/Anna-Anthropy-Rise-of-the-Videogame-Zinesters-Ch-3-4-WEEK-12.pdf)
 * Create a new markdown document in your 'idea-120-responses' folder called 'week-13-anthopy.md' and respond with around 3 questions these readings brought up for you. Pick one and discuss it in 3 paragraphs
 * Push the file to your repository
-* Read the description for [Project 4: Personal Portfolio](week_13_week_of_04-05-2021/project-4_personal-portfolio.md)
+* Read the description for [Project 4: Personal Portfolio](week_13/project-4_personal-portfolio.md)
 * Create a new markdown document in your 'idea-120-responses' folder called 'project-04-proposal.md' and explain in about 1 paragraph what content you'll include in your portfolio and how it will be organized.
 * Draw (or layout in Illustrator) the basic layout that you will use for your Portfolio and [add this drawing to your repository](https://docs.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository) as a photo or exported from Illustrator
 * Push your proposal to your repository
