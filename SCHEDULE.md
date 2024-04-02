@@ -199,8 +199,12 @@ Continue to work on [Project 2: Green Screen](/week_07/project-2-green-screen.md
 ### Week 11
 #### Week of March 20, 2024: SPRING BREAK!
 
+***
+
 ### Week 12
 #### Week of March 27, 2024: Project Critiques and Discussion
+
+***
 
 ### Week 13
 #### Week of April 2, 2024: Game Design for Artists, Part 1
@@ -214,8 +218,8 @@ DUE **Thursday, April 13**:
 
 ***
 
-### Week 13
-#### Week of April 3, 2022: Game Design for Artists, Part 2
+### Week 14
+#### Week of April 9, 2024: Game Design for Artists, Part 2
 
 <sup>*Possible playthrough of [Olia Lialina, My Boyfriend Came Back from the War](http://www.teleportacia.org/war/wara.htm)*</sup>
 
@@ -233,30 +237,22 @@ https://uic.zoom.us/rec/share/tuY9gk9WzT5Czn2TZZTM-stO-cJ7B8UlLJ64JL_v7JQmgMwakH
 
 Twine Tutorial 2 Recording:
 https://uic.zoom.us/rec/share/oQH_ypu3YxS5OA5cqGZGJiInhh5I4DhsHPB7bgurKFnsD2KHK7WNAagdACln1NlT.0KLHikohC7hEBs9Z?startTime=1649168217000
-<!--
-***
-
-### Week 14
-#### Week of April 10, 2021
-
-
-
-DUE **Thursday, April 13**:
-* Non-linear Narrative Project DUE
 
 ***
 
 ### Week 15
-#### Week of April 17, 2021
+#### Week of April 16, 2024
 
 Continue working on your Final Portfolio Project
 
 ***
 
 ### Week 16
-#### Week of April 24, 2021
+#### Week of April 23, 2024
 
-DUE **Thursday, April 27**:
+Continue working on your Final Portfolio Project
+
+DUE **Tuesday, April 30**:
 * Final Portfolio Project
 
 ***
