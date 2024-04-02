@@ -209,12 +209,13 @@ Continue to work on [Project 2: Green Screen](/week_07/project-2-green-screen.md
 * Create a new markdown document in your 'idea-120-responses' folder called 'week-12-anthropy.md' and discuss in about 2 paragraphs how accessibility in gaming and coding can help improve video games. Think about what we can gain from a larger number of voices participating in creating games and what other kinds of media (e.g. theater, physical games) could also benefit from using 'game' creation tools.
 * [Create a GitHub website for your Twine game.](week_10/project-3_non-linear-narrative.md)
 
+DUE **Thursday, April 13**:
+* Non-linear Narrative Project DUE
+
 ***
 
 ### Week 13
 #### Week of April 3, 2022: Game Design for Artists, Part 2
-
-![My Boyfriend Came Back from the War](/my_boyfriend_came_back_from_the_war.gif)
 
 <sup>*Possible playthrough of [Olia Lialina, My Boyfriend Came Back from the War](http://www.teleportacia.org/war/wara.htm)*</sup>
 
