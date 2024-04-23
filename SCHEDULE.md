@@ -261,10 +261,10 @@ Reading responses (7):
 
 Projects (4):
 
-PROJECT 1: Github Poetry Website
-PROJECT 2: Green Screen
-PROJECT 3: Non-linear Narrative (Twine Game)
-PROJECT 4: Portfolio
+* PROJECT 1: Github Poetry Website
+* PROJECT 2: Green Screen
+* PROJECT 3: Non-linear Narrative (Twine Game)
+* PROJECT 4: Portfolio
 
 #### All assignments must be completed by the end of finals, Friday, MAY 3!
 
