@@ -247,7 +247,7 @@ Continue working on your Final Portfolio Project
 
 #### Checklist of assignments:
 
-See course schedule - https://github.com/UICIDEAS/IDEA_120/blob/Spring2024/SCHEDULE.md
+(See course schedule for readings response prompts: https://github.com/UICIDEAS/IDEA_120/blob/Spring2024/SCHEDULE.md)
 
 Reading responses (7):
 
