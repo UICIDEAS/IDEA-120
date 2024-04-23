@@ -245,8 +245,28 @@ Continue working on your Final Portfolio Project
 
 Continue working on your Final Portfolio Project
 
-DUE **Tuesday, April 30**:
-* Final Portfolio Project
+#### Checklist of assignments:
+
+See course schedule - https://github.com/UICIDEAS/IDEA_120/blob/Spring2024/SCHEDULE.md
+
+Reading responses (7):
+
+- Week 2 (Murray)
+- Week 3 (Salter)
+- Week 4 (McLuhan / Barthes)
+- Week 5 (McLuhan)
+- Week 6 (Murray)
+- Week 9 (O'Neil)
+- Week 13 (Anthropy)
+
+Projects (4):
+
+PROJECT 1: Github Poetry Website
+PROJECT 2: Green Screen
+PROJECT 3: Non-linear Narrative (Twine Game)
+PROJECT 4: Portfolio
+
+#### All assignments must be completed by the end of finals, Friday, MAY 3!
 
 ***
 
